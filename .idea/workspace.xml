@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f0be05b-e729-426b-8fec-36e5271b1fc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dPPf5Nw7ZwNImIK97BinnkSpRm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.LivelockDemo">
+    <configuration name="DataRaceDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.first.end.DataRaceDemo" />
+      <module name="Multithreading-tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.first.end.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LivelockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deadlock.third.begin.LivelockDemo" />
+      <module name="Multithreading-tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deadlock.third.begin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.second.WorkerThread" />
+      <module name="Multithreading-tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerThread (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.third.WorkerThread" />
+      <module name="Multithreading-tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.first.WorkerThread" />
+      <module name="Multithreading-tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LivelockDemo" />
+        <item itemvalue="Application.WorkerThread (2)" />
+        <item itemvalue="Application.WorkerThread (1)" />
+        <item itemvalue="Application.WorkerThread" />
+        <item itemvalue="Application.DataRaceDemo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f0be05b-e729-426b-8fec-36e5271b1fc0" name="Default Changelist" comment="" />
+      <created>1592323854600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592323854600</updated>
+      <workItem from="1592323858270" duration="2410000" />
+      <workItem from="1592374782334" duration="5979000" />
+      <workItem from="1592494651515" duration="8284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1592564639339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1592564639339" />
+    <state x="320" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592375771131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="320" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1592375771131" />
+    <state width="1237" height="73" key="GridCell.Tab.0.bottom" timestamp="1592573664131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592573664131" />
+    <state width="1237" height="73" key="GridCell.Tab.0.center" timestamp="1592573664131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592573664131" />
+    <state width="1237" height="73" key="GridCell.Tab.0.left" timestamp="1592573664131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592573664131" />
+    <state width="1237" height="73" key="GridCell.Tab.0.right" timestamp="1592573664131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592573664131" />
+    <state x="682" y="85" width="540" height="524" key="StructurePopup" timestamp="1592563828545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="682" y="85" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1592563828545" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592374805573">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592374805573" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592549137658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592549137658" />
+  </component>
+</project>
